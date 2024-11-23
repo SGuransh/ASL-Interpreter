@@ -1,0 +1,9 @@
+
+MobileNetV2:
+Pros: Lightweight and optimized for mobile and real-time applications. Its architecture is efficient, making it suitable for running on devices with limited resources.
+Cons: Requires more work if higher accuracy is needed, as it is designed to be compact rather than highly complex.
+
+
+PaliGemma:
+Pros: Likely more recent and possibly more accurate for complex tasks but might be less resource-efficient compared to MobileNetV2.
+Cons: If not optimized for mobile or edge devices, you could face slower inference times.
