@@ -1,0 +1,50 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files and directories
+*.tmp
+*.bak
+*.old
+*.orig
+*.tmp/
+*.~*
+*.temp
+
+# Compressed files
+*.tar
+*.zip
+
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+
+# Ignore all files in a specific directory =
+output_directory/
+resized_hands/
+hands_coor/
+yolov5/
+venv/
+Data/
+Data_Cropped/
+to_resize/
